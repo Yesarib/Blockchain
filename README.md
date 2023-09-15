@@ -48,10 +48,3 @@ In the blockchain section, you can share fundamental information about the block
 ## Miner Section
 In the miner section, you can provide details about miners. Explain how miners attempt to mine blocks, how newly mined blocks are sent to the blockchain section using sockets, and how validation and broadcasting are performed.
 
-## Contributing
-This project is open to contributions. If you would like to contribute:
-
-1. Fork this repository to your GitHub account.
-2. Make your changes and explain them with clear commit messages.
-3. Push your changes to your forked repository.
-4. Create a pull request, and we will review and merge your changes.
